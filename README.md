@@ -8,7 +8,7 @@ To see the full dashboard please visit : https://app.powerbi.com/view?r=eyJrIjoi
 
 Sales Analysis Dashboard
 
-This repository contains a comprehensive dashboard built using [mention your data visualization tool, e.g., Power BI, Tableau] to analyze sales performance for a US-based business. The dashboard provides insights into various aspects of sales, including:
+This repository contains a comprehensive dashboard built using Power Bi to analyze sales performance for a US-based business. The dashboard provides insights into various aspects of sales, including:
 
 Sales Overview
 
